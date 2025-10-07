@@ -74,27 +74,7 @@ The dashboard was developed using **Power BI Desktop** (`.pbix` file) with multi
 - Expand **patient satisfaction analytics** (NPS, feedback text mining)  
 
 ---
-
-## 📂 Repository Structure
-```
-📁 Hospital-Clinic-Report
-├── Hospital - Clinics Report.pbix     # Power BI dashboard file
-├── /images/
-│   ├── Screenshot1.png
-│   ├── S2.png
-│   └── S3.png
-└── README.md
-```
-
----
-
-## 🧭 Author Notes
-This dashboard was created as a **healthcare analytics visualization project** to demonstrate Power BI proficiency in KPI design, DAX modeling, and storytelling through data.
-
-It highlights:
-- Effective use of Power BI’s visual features  
-- Practical healthcare analytics insights  
-- Strong layout and readability for business stakeholders  
+  
 
 ---
 
