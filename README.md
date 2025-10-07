@@ -76,26 +76,21 @@ The dashboard was developed using **Power BI Desktop** (`.pbix` file) with multi
 ---
   
 
----
-
 ## 🩺 Example Preview
 
-```markdown
-![Dashboard Overview](images/Screenshot1.png)
-![Department Analysis](images/S2.png)
-![Yearly Trend Comparison](images/S3.png)
-```
+<img width="1019" height="571" alt="image" src="https://github.com/user-attachments/assets/10ea251b-de11-4ce0-93eb-d81f6f30de9b" />
+<img width="1016" height="569" alt="image" src="https://github.com/user-attachments/assets/d6b916fd-2fcf-485a-af2a-25f18eb31368" />
+<img width="1001" height="568" alt="image" src="https://github.com/user-attachments/assets/39b240af-e9f4-4595-bd49-79dd6f787ccc" />
 
 ---
 
-
----
 
 ## 🧠 Skills Highlight
 - Power BI Dashboard Design  
 - Data Modeling & DAX  
 - Healthcare Data Visualization  
-- KPI Analytics & Performance Reporting  
+- KPI Analytics & Performance Reporting
+- Star Schema Data Modeling
 
 ---
 
@@ -103,7 +98,7 @@ The dashboard was developed using **Power BI Desktop** (`.pbix` file) with multi
 **Author:** Audrey Sun  
 **Location:** Vancouver, Canada  
 **LinkedIn:** [linkedin.com/in/chenyangsun](https://www.linkedin.com/in/chenyang-s-146073136/)  
-**GitHub:** [github.com/audreysun]((https://github.com/chenyangsunaudrey))
+**GitHub:** [github.com/audreysun](https://github.com/chenyangsunaudrey)
 
 ---
 ✨ _“Turning healthcare data into meaningful stories.”_  
