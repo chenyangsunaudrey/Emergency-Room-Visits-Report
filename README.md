@@ -79,7 +79,9 @@ The dashboard was developed using **Power BI Desktop** (`.pbix` file) with multi
 ## 🩺 Example Preview
 
 <img width="1019" height="571" alt="image" src="https://github.com/user-attachments/assets/10ea251b-de11-4ce0-93eb-d81f6f30de9b" />
+
 <img width="1016" height="569" alt="image" src="https://github.com/user-attachments/assets/d6b916fd-2fcf-485a-af2a-25f18eb31368" />
+
 <img width="1001" height="568" alt="image" src="https://github.com/user-attachments/assets/39b240af-e9f4-4595-bd49-79dd6f787ccc" />
 
 ---
